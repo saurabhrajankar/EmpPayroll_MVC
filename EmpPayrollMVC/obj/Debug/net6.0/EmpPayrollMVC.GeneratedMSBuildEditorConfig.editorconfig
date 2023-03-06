@@ -16,8 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Saurabh\OneDrive\Desktop\CFP\EmpPayrollMVC\EmpPayrollMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/DemoController1/Addemp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb0NvbnRyb2xsZXIxXEFkZGVtcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/DemoController1/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb0NvbnRyb2xsZXIxXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Emp/AddEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEFkZEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Emp/Getempdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEdldGVtcGRhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Emp/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXFVwZGF0ZUVtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Saurabh/OneDrive/Desktop/CFP/EmpPayrollMVC/EmpPayrollMVC/Views/Home/Index.cshtml]

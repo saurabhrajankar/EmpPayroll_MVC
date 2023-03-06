@@ -11,5 +11,9 @@ namespace RepoLayer.Interface
     public interface IUserRL
     {
         public EmpModel AddEmployee(EmpModel empModel);
+        public List<EmpModel> GetAllEmployees();
+        public EmpModel GetEmployeeData(int id);
+        public EmpModel Updateemp(EmpModel empModel);
+        public bool DeleteEmp(int id);
     }
 }

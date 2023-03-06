@@ -29,5 +29,54 @@ namespace BusinessLayer.Services
                 throw;
             }
         }
+        public List<EmpModel> GetAllEmployees()
+        {
+            try
+            {
+                return iuserRL.GetAllEmployees();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public EmpModel GetEmployeeData(int id)
+        {
+            try
+            {
+                return iuserRL.GetEmployeeData(id);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public EmpModel Updateemp(EmpModel empModel)
+        {
+            try
+            {
+                return iuserRL.Updateemp(empModel);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public bool DeleteEmp(int id)
+        {
+            try
+            {
+                return iuserRL.DeleteEmp(id);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
     }
 }
